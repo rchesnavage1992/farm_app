@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon starter/index.js"
+    "start": "nodemon index.js"
   },
   "author": "Rhey Martin",
   "license": "ISC",
